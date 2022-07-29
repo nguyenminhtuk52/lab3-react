@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqM0ybrs2mvWiXm5ZeefC1VnLZ2vRr16DxKzzXG7r1XraLJsrKSq2K_JnuYOTVCuusqg&usqp=CAU",
+      "saleOffPrice":9000
+    },
+    {
+      "id": 1,
+      "name": "Product",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqM0ybrs2mvWiXm5ZeefC1VnLZ2vRr16DxKzzXG7r1XraLJsrKSq2K_JnuYOTVCuusqg&usqp=CAU",
+      "saleOffPrice":9000
+    },
+    {
+      "id": 1,
+      "name": "Product",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqM0ybrs2mvWiXm5ZeefC1VnLZ2vRr16DxKzzXG7r1XraLJsrKSq2K_JnuYOTVCuusqg&usqp=CAU",
+      "saleOffPrice":9000
+    }
+  ] 
+}

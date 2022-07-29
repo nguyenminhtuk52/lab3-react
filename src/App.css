@@ -1,0 +1,13 @@
+.product-container{
+    display: flex;
+    flex: auto;
+    gap: 30px;
+}
+.product-item{
+ border: 1px gray dashed;
+ border-radius: 5px;
+}
+.cart-container{
+    margin-top: 20px;
+    border-top: 1px black solid;
+}
